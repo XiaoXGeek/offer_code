@@ -2,6 +2,7 @@ package com.xiaoxgeek.demo10;
 
 /**
  * Created by XiaoX on 2018/1/19.
+ * 看作是1和2的组合，只要找到有多少个2即可
  */
 public class Demo01 {
     public int RectCover(int target) {
